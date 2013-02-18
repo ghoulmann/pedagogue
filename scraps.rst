@@ -1,4 +1,4 @@
-and Don't Call Me a Hacker!
+And don't call me a hacker!
 ===========================	
 
 Learning from Mazel: http://ellamazel.org/yellowbook/
