@@ -1,0 +1,30 @@
+Preamble
+********
+
+Shortly after his arrest in 1986, a high-school junior published `“The Conscience of a Hacker” <http://www.phrack.org/issues.html?issue=7&id=3&mode=txt>`_ under the pseudonym *The Mentor*. It's more popularly known as “The Hacker Manifesto,”  and says very little about the (ab)use of technology; instead, The Mentor offers chilling insights into secondary-school pedagogy from a student's perspective: “The Conscience of a Hacker” ultimately offers both a searing indictment of public education *and* a forgotten stub of a manifesto for school reform.
+
+When we listen, we recognize in him the caring `Mentor <http://en.wikipedia.org/wiki/Mentor>`_, as he shares wisdom from sage experience as a public school student and as a successful independent learner. [#]_
+
+We understand that wisdom [#]_ as an unambiguous call to
+
+* `differentiate instruction  <http://en.wikipedia.org/wiki/Differentiated_instruction>`_;
+* provide rigorous content;
+* maintian rigorous expectations;
+* value authentic learning and assessment that serves beyond the walls of the classroom;
+* encourage and provide for `connected learning  <http://dmlhub.net/sites/default/files/ConnectedLearning_report.pdf>`_.
+
+We recognize that since 1986, pedagogy research has followed The Mentor in calling for these best-practice mandates.
+
+We recognize too that schools are nevertheless failing their students across the curriculum.
+
+We are authorities in our fields, `professional <http://books.google.com/books/about/Professionalism_and_Ethics_in_Teaching.html?id=Ny2eD-ZebUoC>`_ scholars and academics. We contribute to knowledge and bring the discipline to the content areas. We end now the 26-year, silent struggle ignited by The Mentor's testimony. We will not be complicit in the violent neglect of school children. [#]_
+
+Now is the Just-in-Time deposition of administrators and lawmakers who have perpetrated violence and perpetuated social and economic injustice by impeding our urgent transgression. [#]_
+
+.. [#] To engage the mentor, we must come to terms. The titular *Hacker* invokes not the digital intruder...Ellipses to Coleman, code, political heritage, meritocracy
+.. [#] "It's the truth, even if it didn't happen." (Kesey)
+.. [#] Coretta Scott King
+.. [#] bell hooks
+
+.. index:: Coretta Scott King, bell hooks, The Mentor, Hacker Manifesto, Conscience of a Hacker
+
