@@ -13,6 +13,7 @@ Contents:
 
    preamble
    manifesto
+   scraps
    resources
     
 
