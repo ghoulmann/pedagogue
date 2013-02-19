@@ -13,18 +13,19 @@ We understand that wisdom [#]_ as an unambiguous call to
 * value authentic learning and assessment that serves beyond the walls of the classroom;
 * encourage and provide for `connected learning  <http://dmlhub.net/sites/default/files/ConnectedLearning_report.pdf>`_.
 
-We recognize that since 1986, pedagogy research has followed The Mentor in calling for these best-practice mandates.
+We recognize that since 1986, pedagogy research has followed The Mentor in calling for these best-practice mandates. We bear witness to the chilling effects of power centers on implementation and innovation of best practices for our students: The State; School Boards; Superintendents; The Principal; The Federal Governamnet; Lobbyists.
 
-We recognize too that schools are nevertheless failing their students across the curriculum.
+We recognize too that the Mentor is not alone, and that schools have bee failing students across the curriculum since standards-based reform took root, new legislation was passed, and currilum revised after the success of Sputnik. [#]_
 
-We are authorities in our fields, `professional <http://books.google.com/books/about/Professionalism_and_Ethics_in_Teaching.html?id=Ny2eD-ZebUoC>`_ scholars and academics. We contribute to knowledge and bring the discipline to the content areas. We end now the 26-year, silent struggle ignited by The Mentor's testimony. We will not be complicit in the violent neglect of school children. [#]_
+We are authorities in our fields, `professional <http://books.google.com/books/about/Professionalism_and_Ethics_in_Teaching.html?id=Ny2eD-ZebUoC>`_ scholars and academics. We contribute to knowledge and bring the discipline to the content areas. We end now the 26-years of failure to education community accepts by closing their ears to The Mentor's testimony. We will not be complicit in the violent neglect of school children. [#]_
 
 Now is the Just-in-Time deposition of administrators and lawmakers who have perpetrated violence and perpetuated social and economic injustice by impeding our urgent transgression. [#]_
 
 .. [#] To engage the mentor, we must come to terms. The titular *Hacker* invokes not the digital intruder...Ellipses to Coleman, code, political heritage, meritocracy
 .. [#] "It's the truth, even if it didn't happen." (Kesey)
+.. [#] Place holder
 .. [#] Coretta Scott King
 .. [#] bell hooks
 
-.. index:: Coretta Scott King, bell hooks, The Mentor, Hacker Manifesto, Conscience of a Hacker
+.. index:: Coretta Scott King, bell hooks, The Mentor, Hacker Manifesto, Conscience of a Hacker, Sputnik
 
