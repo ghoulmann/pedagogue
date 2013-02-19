@@ -12,3 +12,6 @@ Learning from Mazel: http://ellamazel.org/yellowbook/
 	the aim must be the training of independently acting and thinking individuals, who, however, see in the service of the community their highest life problem. (Einstein 65)
 
 	Education either functions as an instrument which is used to facilitate integration of the younger generation into the logic of the present system and bring about conformity or it becomes the practice of freedom, the means by which men and women deal critically and creatively with reality and discover how to participate in the transformation of their world. (Freire, *Pedagogy of the Oppressed*)
+
+http://www.youtube.com/watch?v=zDZFcDGpL4U&feature=share&list=PL39BF9545D740ECFF
+	"Every country on earth is, at the moment, reforming public education." Because "how do we educate our children to take their place in the 21st century economy."
