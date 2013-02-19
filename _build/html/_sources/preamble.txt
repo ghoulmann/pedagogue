@@ -13,11 +13,13 @@ We understand that wisdom [#]_ as an unambiguous call to
 * value authentic learning and assessment that serves beyond the walls of the classroom;
 * encourage and provide for `connected learning  <http://dmlhub.net/sites/default/files/ConnectedLearning_report.pdf>`_.
 
-We recognize that since 1986, pedagogy research has followed The Mentor in calling for these best-practice mandates. We bear witness to the chilling effects of power centers on implementation and innovation of best practices for our students: The State; School Boards; Superintendents; The Principal; The Federal Governamnet; Lobbyists.
+We recognize that since 1986, pedagogy research has followed The Mentor in calling for these best-practice mandates. We bear witness to the chilling effects of the following power centers on the implementation and innovation of best practices for our students: The State; School Boards; Superintendents; The Principal and administration; The Federal Governamnet; Lobbyists.
 
-We recognize too that the Mentor is not alone, and that schools have bee failing students across the curriculum since standards-based reform took root, new legislation was passed, and currilum revised after the success of Sputnik. [#]_
+We recognize too that the Mentor is not alone, and that schools have been failing students across the curriculum since the success of Sputnik. [#]_
 
-We are authorities in our fields, `professional <http://books.google.com/books/about/Professionalism_and_Ethics_in_Teaching.html?id=Ny2eD-ZebUoC>`_ scholars and academics. We contribute to knowledge and bring the discipline to the content areas. We end now the 26-years of failure to education community accepts by closing their ears to The Mentor's testimony. We will not be complicit in the violent neglect of school children. [#]_
+We are authorities in our fields, `professional <http://books.google.com/books/about/Professionalism_and_Ethics_in_Teaching.html?id=Ny2eD-ZebUoC>`_ scholars and academics. We contribute to knowledge and bring discipline to the content areas. We end now the 26-years of silence the education community offered in response to The Mentor's substantive and expert testimony.
+
+We will not be complicit in the violent neglect of school children. [#]_
 
 Now is the Just-in-Time deposition of administrators and lawmakers who have perpetrated violence and perpetuated social and economic injustice by impeding our urgent transgression. [#]_
 
