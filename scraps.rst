@@ -10,3 +10,5 @@ Learning from Mazel: http://ellamazel.org/yellowbook/
 	The only rational way of educating is to be an example -- if one can't help it, a warning example. (Einstein 61)
 
 	the aim must be the training of independently acting and thinking individuals, who, however, see in the service of the community their highest life problem. (Einstein 65)
+
+	Education either functions as an instrument which is used to facilitate integration of the younger generation into the logic of the present system and bring about conformity or it becomes the practice of freedom, the means by which men and women deal critically and creatively with reality and discover how to participate in the transformation of their world. (Freire, *Pedagogy of the Oppressed*)
