@@ -1,6 +1,31 @@
 The Conscience of the Pedagogue
 *******************************
 
+*We seek after knowledge... and you call us criminals.*
+--The Mentor
+
+We hear The Mentor clearly now in retrospect and register our understanding with this Just-in-Time Insurrection.
+
+As scholars, we share The Mentor's “transgressive” quest. We resolve, then, to collaborate with you to make the most of our transgression, to transgress effectively, transgress creatively, and transgress efficiently in pursuit of knowledge.
+
+We do not seek after knowledge because we are patriots committed to our nation's competitive edge in a global market. Nor do seek after knowledge in the interest of luxurious retirement.
+
+Like you, like Einstein, we are committed to education because we are committed to individual independence.
+
+Like you, like Godwin, we are committed to education because we are committed to individual happiness.
+
+Expect, then, no fallacious appeals to nationalism or bribes of posh potential from us.
+
+We recognize that your interest – our shared interest – is in the practice of liberation, not submission.
+
+We shall develop together the core literacy to articulate our unfreedom.
+
+We shall not allow your school to remain an advertising agency for the status quo, nor a factory for the manufacture of consent.
+
+This marks the end of our tenure as commodities circulating on the marketplace: our schools will not be markets, our services will not be commodities. We will not be labor left alienated our sacred mission and your best interest.
+
+We shall not navigate a marketplace in the interests of spectral stakeholders. Anticipate this: we will tactically resist and bluntly depose those who call for us to merchantalize your time or commodify your place in your space.
+
 *Organizational headings are temporary*
 
 Schools shall be a Practicuum in Freedom, Emancipation, Liberation
