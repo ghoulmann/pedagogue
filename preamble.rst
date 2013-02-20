@@ -9,7 +9,7 @@ We understand that wisdom [#]_ as an unambiguous call to
 
 * `differentiate instruction  <http://en.wikipedia.org/wiki/Differentiated_instruction>`_;
 * provide rigorous content;
-* maintian rigorous expectations;
+* maintain rigorous expectations;
 * value authentic learning and assessment that serves beyond the walls of the classroom;
 * encourage and provide for `connected learning  <http://dmlhub.net/sites/default/files/ConnectedLearning_report.pdf>`_.
 
