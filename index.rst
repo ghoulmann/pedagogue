@@ -6,6 +6,8 @@
 Welcome to The Conscience of the Pedagogue
 =========================================================
 
+.. image:: images/manifesto3.png
+
 Contents:
 
 .. toctree::
