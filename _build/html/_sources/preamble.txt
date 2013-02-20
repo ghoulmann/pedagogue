@@ -25,7 +25,7 @@ Now is the Just-in-Time deposition of administrators and lawmakers who have perp
 
 .. [#] To engage the mentor, we must come to terms. The titular *Hacker* invokes not the digital intruder...Ellipses to Coleman, code, political heritage, meritocracy
 .. [#] "It's the truth, even if it didn't happen." (Kesey)
-.. [#] Place holder
+.. [#] Approximately 25 of every 100 students drop out before graduating; A 2010 report finds that only 24 percent of high schoolers who took the ACT were college-ready in all subject areas; in 2000, 28 percent of entering college freshmen enrolled in one or more remedial reading, writing, or mathemematics courses; As of 2008, only 55.9 percent of tfirst-time full-time bachelor's degree-seeking students earned a degree within six years (Wolk). 
 .. [#] Coretta Scott King
 .. [#] bell hooks
 
