@@ -7,7 +7,10 @@ The Conscience of the Pedagogue
 
 We hear The Mentor clearly now in retrospect and register our understanding with this Just-in-Time Insurrection.
 
-As scholars, we share The Mentor's “transgressive” quest. We resolve, then, to collaborate with you to make the most of our transgression, to transgress effectively, transgress creatively, and transgress efficiently in pursuit of knowledge.
+Education's Purpose
+-------------------
+
+As scholars, we share The Mentor's “transgressive” quest. We resolve, then, to collaborate with you to make the most of our mutual transgression, to transgress effectively, transgress creatively, and transgress efficiently in pursuit of knowledge.
 
 We do not seek after knowledge because we are patriots committed to our nation's competitive edge in a global market. Nor do seek after knowledge in the interest of luxurious retirement. Policies and practices justified by those assumptions shall be transgressed and stricken.
 
@@ -19,13 +22,15 @@ Expect, then, no fallacious appeals to nationalism or bribes of posh potential f
 
 We recognize that your interest – our shared interest – is in the practice of liberation, not submission.
 
-We shall develop together the core literacy to articulate our unfreedom.
+Rely on us to stand united and resolute against Those who seek to ensure not your education, but rather your docile submission.
+
+We share in a mission: we shall develop, together, the core literacy to articulate our unfreedom.
 
 We shall not allow your school to remain an advertising agency for the status quo, nor a factory for the manufacture of consent.
 
 This marks the end of our tenure as commodities circulating on the marketplace: our schools will not be markets, our services will not be commodities. We will not be labor left alienated our sacred mission and your best interest.
 
-We shall not navigate a marketplace in the interests of spectral stakeholders. Anticipate this: we will tactically resist and bluntly depose those who call for us to merchantalize your time or commodify your place in your space.
+We shall not navigate a marketplace in the interests of spectral stakeholders. Anticipate this: we will tactically resist and bluntly depose those who call for us to merchantalize your time or commodify your place in your space. They shall not speculate on our pursuit of knowledge.
 
 *Organizational headings are temporary*
 
