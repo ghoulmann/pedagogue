@@ -1,7 +1,7 @@
 Preamble
 ********
 
-Shortly after his arrest in 1986, a high-school junior published `“The Conscience of a Hacker” <http://www.phrack.org/issues.html?issue=7&id=3&mode=txt>`_ under the pseudonym *The Mentor*. It's more popularly known as “The Hacker Manifesto,”  and says very little about the (ab)use of technology; instead, The Mentor offers chilling insights into secondary-school pedagogy from a student's perspective: “The Conscience of a Hacker” ultimately offers both a searing indictment of public education *and* a forgotten stub of a manifesto for school reform.
+Shortly after his arrest in 1986, a high-school junior published `“The Conscience of a Hacker” <http://www.phrack.org/issues.html?issue=7&id=3&mode=txt>`_ under the pseudonym *The Mentor*. Known popularly as “The Hacker Manifesto,”  it says very little about the (ab)use of technology; instead, The Mentor offers chilling insights into secondary-school pedagogy from a student's perspective: “The Conscience of a Hacker” ultimately offers both a searing indictment of public education *and* a forgotten stub of a manifesto for substantive school reform.
 
 When we listen, we recognize in him the caring `Mentor <http://en.wikipedia.org/wiki/Mentor>`_, as he shares wisdom from sage experience as a public school student and as a successful independent learner. [#]_
 
