@@ -2,13 +2,14 @@ The Conscience of the Pedagogue
 *******************************
 
 *We seek after knowledge... and you call us criminals.*
+
 --The Mentor
 
 We hear The Mentor clearly now in retrospect and register our understanding with this Just-in-Time Insurrection.
 
 As scholars, we share The Mentor's “transgressive” quest. We resolve, then, to collaborate with you to make the most of our transgression, to transgress effectively, transgress creatively, and transgress efficiently in pursuit of knowledge.
 
-We do not seek after knowledge because we are patriots committed to our nation's competitive edge in a global market. Nor do seek after knowledge in the interest of luxurious retirement.
+We do not seek after knowledge because we are patriots committed to our nation's competitive edge in a global market. Nor do seek after knowledge in the interest of luxurious retirement. Policies and practices justified by those assumptions shall be transgressed and stricken.
 
 Like you, like Einstein, we are committed to education because we are committed to individual independence.
 
