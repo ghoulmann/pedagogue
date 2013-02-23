@@ -15,3 +15,7 @@ Learning from Mazel: http://ellamazel.org/yellowbook/
 
 http://www.youtube.com/watch?v=zDZFcDGpL4U&feature=share&list=PL39BF9545D740ECFF
 	"Every country on earth is, at the moment, reforming public education." Because "how do we educate our children to take their place in the 21st century economy."
+
+	"The only rational way of educating is to be an example -- if one can't help it, a warning example." (Einstein 61)
+
+	"the aim must be the training of independently acting and thinking individuals, who, however, see in the service of the communityy their highest life problem" (Einstein 65)

@@ -32,37 +32,14 @@ This marks the end of our tenure as commodities circulating on the marketplace: 
 
 We shall not navigate a marketplace in the interests of spectral stakeholders. Anticipate this: we will tactically resist and bluntly depose those who call for us to merchantalize your time or commodify your place in your space. They shall not speculate on our pursuit of knowledge.
 
-*Organizational headings are temporary*
-
-Schools shall be a Practicuum in Freedom, Emancipation, Liberation
-==================================================================
-
-We recognize that your interest, our mutual interest, lies in practicing liberation, not submission.
-
-"The only rational way of educating is to be an example -- if one can't help it, a warning example." (Einstein 61)
-
-"the aim must be the training of independently acting and thinking individuals, who, however, see in the service of the communityy their highest life problem" (Einstein 65)
-
-You will have the core literacy to articulate our unfreedom. [zize]
-
-School shall not be a marketplace
-=================================
-
-Your school shall not be an ad agent for the status quo nor a factory for the manufacture of consent. [Illich][Chomsky]
 
 
-Schools shall not be part-time prisons
-======================================
 
-We will raze hierarchies
-========================
+
+
 
 We consult each others' authority, not defer to Theirs. We answer to calls for papers, not for human resources, hall monitors, or proctors.
 
-Schools as Markets
-==================
-
-We shall not sell products, circulate on the market, or provide services: We shall not navigate a marketplace in the interests of spectral stakeholders. Anticipate this: we will tactically resist and bluntly depose those who call for us to merchantalize your time or commodify your place in your space.
 
 Part-Time Prisons and Manufactured Consent
 ==========================================
