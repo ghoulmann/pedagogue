@@ -65,4 +65,4 @@ We thus call now for a leadership eager to pioneer heterarchical and distributed
 
 Clearly, we are not all alike and you are not all alike. Ours is not a monolithic threat. But it's no less real or potent. Our common stakes, interests, and values call for nothing less than coordinated, collaborative reform.
 
-.. index:: Godwin, Einstein
+.. index:: Godwin, Einstein, Zizek
