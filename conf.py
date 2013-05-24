@@ -302,11 +302,11 @@ epub_copyright = u'2013, The Mentee'
 # regardless of the global pdf_compressed setting.
     
 pdf_documents = [ 
-    ('index', u'preface'. u'preamble', u'manifesto', u'resources', u'scraps'),
-]
+    ('index', u'preface', u'preamble', u'manifesto', u'resources', u'scraps'),
+    ]
 
 # A comma-separated list of custom stylesheets. Example:
-pdf_stylesheets = ['sphinx','kerning','letter']
+#pdf_stylesheets = ['sphinx','kerning','letter']
 
 # A list of folders to search for stylesheets. Example:
 pdf_style_path = ['.', '_styles']
@@ -329,7 +329,7 @@ pdf_language = "en_US"
 # Section level that forces a break page.
 # For example: 1 means top-level sections start in a new page
 # 0 means disabled
-pdf_break_level = 1
+pdf_break_level = 0
 
 # When a section starts in a new page, force it to be 'even', 'odd',
 # or just use 'any'
