@@ -302,7 +302,7 @@ epub_copyright = u'2013, The Mentee'
 # regardless of the global pdf_compressed setting.
     
 pdf_documents = [ 
-    ('index', u'preface', u'preamble', u'manifesto', u'resources', u'scraps'),
+    ('index', u'preamble', u'manifesto', u'resources', u'scraps'),
     ]
 
 # A comma-separated list of custom stylesheets. Example:
