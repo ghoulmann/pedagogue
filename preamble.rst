@@ -13,7 +13,7 @@ We understand that wisdom [#]_ as an unambiguous call to
 * value authentic learning and assessment that serves beyond the walls of the classroom;
 * encourage and provide for `connected learning  <http://dmlhub.net/sites/default/files/ConnectedLearning_report.pdf>`_.
 
-We recognize that since 1986, pedagogy research has followed The Mentor in calling for these best-practice mandates. We bear witness to the chilling effects of the following power centers on the implementation and innovation of best practices for our students: The State; School Boards; Superintendents; The Principal and administration; The Federal Governamnet; Lobbyists.
+We recognize that since 1986, pedagogy research has followed The Mentor in calling for these best-practice mandates. We bear witness to the chilling effects of the following power centers on the implementation and innovation of best practices for our students: The State; School Boards; Superintendents; The Principal and administration; The Federal Government; Lobbyists.
 
 We recognize too that the Mentor is not alone, and that schools have been failing students across the curriculum since the success of Sputnik. [#]_
 
@@ -25,7 +25,7 @@ Now is the Just-in-Time deposition of administrators and lawmakers who have perp
 
 .. [#] To engage the mentor, we must come to terms. The titular *Hacker* invokes not the digital intruder...Ellipses to Coleman, code, political heritage, meritocracy
 .. [#] "It's the truth, even if it didn't happen." (Kesey)
-.. [#] Approximately 25 of every 100 students drop out before graduating; A 2010 report finds that only 24 percent of high schoolers who took the ACT were college-ready in all subject areas; in 2000, 28 percent of entering college freshmen enrolled in one or more remedial reading, writing, or mathemematics courses; as of 2008, only 55.9 percent of first-time, full-time bachelor's degree-seeking students earned a degree within six years (Wolk). Wolk makes clear that this is not an improvement over time (contrasted with 1981 data).
+.. [#] Approximately 25 of every 100 students drop out before graduating; A 2010 report finds that only 24 percent of high schoolers who took the ACT were college-ready in all subject areas; in 2000, 28 percent of entering college freshmen enrolled in one or more remedial reading, writing, or mathematics courses; as of 2008, only 55.9 percent of first-time, full-time bachelor's degree-seeking students earned a degree within six years (Wolk). Wolk makes clear that this is not an improvement over time (contrasted with 1981 data).
 .. [#] Coretta Scott King
 .. [#] bell hooks
 
