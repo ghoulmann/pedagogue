@@ -29,5 +29,5 @@ Now is the Just-in-Time deposition of administrators and lawmakers who have perp
 .. [#] Coretta Scott King
 .. [#] bell hooks
 
-.. index:: Coretta Scott King, bell hooks, The Mentor, Hacker Manifesto, Conscience of a Hacker, Sputnik
+.. index:: Coretta Scott King, bell hooks, The Mentor, Hacker Manifesto, Conscience of a Hacker, Sputnik, Foucault, differentiation, professionalism, school reform, Mentor
 
