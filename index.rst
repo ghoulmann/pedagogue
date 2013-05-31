@@ -6,7 +6,7 @@
 Conscience of the Pedagogue
 =========================================================
 
-.. image:: manifesto3.png
+.. image:: manifesto3.jpg
 
 Contents:
 
