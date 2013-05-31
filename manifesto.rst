@@ -7,7 +7,7 @@ The Conscience of the Pedagogue
 
 We hear The Mentor clearly now in retrospect and register our understanding with this Just-in-Time Insurrection.
 
-As scholars, we share The Mentor's “transgressive” quest.
+As scholars, we share The Mentor's “transgressive” quest. [#]_
 
 We resolve, then, to collaborate with you to make the most of our mutual transgression, to transgress effectively, transgress creatively, and transgress efficiently in pursuit of knowledge.
 
@@ -64,5 +64,7 @@ The impulse to vulgarly stratify and rank our peers, your colleagues, is an obst
 We thus call now for a leadership eager to pioneer heterarchical and distributed responsibility. When we're all administrators, our responsibilities fluidly defined by our relationships of praxis, we can look forward to the extirpation of the institutional stratification that, on one hand, inhibits connected learning through peer-to-peer collaboration and consultation among students, and on the other produces leadership that perpetuates a culture of competition over a culture of collaboration among faculty.
 
 Clearly, we are not all alike and you are not all alike. Ours is not a monolithic threat. But it's no less real or potent. Our common stakes, interests, and values call for nothing less than coordinated, collaborative reform.
+
+.. [#]_  “Transgression, then, is not related to the limit as black to white, the prohibited to the lawful, the outside to the inside, or as the open area of a building to its enclosed spaces. Rather, their relationship takes the form of a spiral which no simple infraction can exhaust. Perhaps it is like a flash of lightning in the night which, from the beginning of time, gives a dense and black in- tensity to the night it denies, which lights up the night from the inside, from top to bottom, and yet owes to the dark the stark clarity of its manifestation, its harrowing and poised singularity; the flash loses itself in this space it marks with its sovereignty and becomes silent now that it has given a name to obscurity.” (Michel Foucault, Preface to *Transgression*)
 
 .. index:: Godwin, Einstein, Zizek
