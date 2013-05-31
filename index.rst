@@ -7,6 +7,7 @@ Conscience of the Pedagogue
 =========================================================
 
 .. image:: manifesto3.jpg
+   scale: 100 %
 
 Contents:
 
