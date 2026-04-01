@@ -4,7 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-sphinx = "*"
+mkdocs = ">=1.5,<2.0"
+mkdocs-techdocs-core = "*"
+pymdown-extensions = "*"
 
 [dev-packages]
 

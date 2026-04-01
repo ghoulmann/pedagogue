@@ -5,4 +5,4 @@ Draft in progress.
 
 In rst with Sphinx.
 
-Available in HTML at http://badsville.ignorelist.com/manifesto
+Available in HTML at http://ghoulmann.github.io/pedagogue/

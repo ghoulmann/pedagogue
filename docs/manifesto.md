@@ -1,13 +1,12 @@
-The Conscience of the Pedagogue
-*******************************
+# The Conscience of the Pedagogue
 
-*We seek after knowledge... and you call us criminals.*
+_We seek after knowledge... and you call us criminals._
 
---The Mentor
+—The Mentor
 
 We hear The Mentor clearly now in retrospect and register our understanding with this Just-in-Time Insurrection.
 
-As scholars, we share The Mentor's “transgressive” quest. [#]_
+As scholars, we share The Mentor's "transgressive" quest.<sup>[1](#notes)</sup>
 
 We resolve, then, to collaborate with you to make the most of our mutual transgression, to transgress effectively, transgress creatively, and transgress efficiently in pursuit of knowledge.
 
@@ -55,7 +54,7 @@ You are not all alike. We advocate for and win every students' inalienable privi
 
 With this declaration, High-stakes tests that hold no instructional value – that bear the counterfeit faces of equity and social justice and economic justice – no longer can count on us for their security, integrity, validity. We are not to be trusted to proctor, or participate any longer in perpetually erecting the impossible gatekeeping mechanisms intended to bar your access.
 
-No, we do not identify with colleagues who cite a disembodied “calling” to teach. We do feel compelled, however, to answer an insistent call to practice and model collaboration, freedom, and connected scholarship: scholarship connected to your interests, to your communities, to your peers, and to your ambitions. This fiercely urgent call comes in contrast, from the meat-embodied voices of the marginalized, subjected, vulnerable, nondominant.  
+No, we do not identify with colleagues who cite a disembodied "calling" to teach. We do feel compelled, however, to answer an insistent call to practice and model collaboration, freedom, and connected scholarship: scholarship connected to your interests, to your communities, to your peers, and to your ambitions. This fiercely urgent call comes in contrast, from the meat-embodied voices of the marginalized, subjected, vulnerable, nondominant.
 
 We recognize the need for administrators, perhaps leadership, but we value heterarchies and anarchies over hierarchies. We have the experience, resources, expertise, and research to depose and refactor insidious hierarchies - throughout the community - from your striated lunch room to Their closed boardroom.
 
@@ -65,6 +64,8 @@ We thus call now for a leadership eager to pioneer heterarchical and distributed
 
 Clearly, we are not all alike and you are not all alike. Ours is not a monolithic threat. But it's no less real or potent. Our common stakes, interests, and values call for nothing less than coordinated, collaborative reform.
 
-.. [#] “Transgression, then, is not related to the limit as black to white, the prohibited to the lawful, the outside to the inside, or as the open area of a building to its enclosed spaces. Rather, their relationship takes the form of a spiral which no simple infraction can exhaust. Perhaps it is like a flash of lightning in the night which, from the beginning of time, gives a dense and black in- tensity to the night it denies, which lights up the night from the inside, from top to bottom, and yet owes to the dark the stark clarity of its manifestation, its harrowing and poised singularity; the flash loses itself in this space it marks with its sovereignty and becomes silent now that it has given a name to obscurity.” (Michel Foucault, Preface to *Transgression*)
+---
 
-.. index:: Godwin, Einstein, Zizek
+## Notes
+
+1. "Transgression, then, is not related to the limit as black to white, the prohibited to the lawful, the outside to the inside, or as the open area of a building to its enclosed spaces. Rather, their relationship takes the form of a spiral which no simple infraction can exhaust. Perhaps it is like a flash of lightning in the night which, from the beginning of time, gives a dense and black intensity to the night it denies, which lights up the night from the inside, from top to bottom, and yet owes to the dark the stark clarity of its manifestation, its harrowing and poised singularity; the flash loses itself in this space it marks with its sovereignty and becomes silent now that it has given a name to obscurity." (Michel Foucault, Preface to _Transgression_)

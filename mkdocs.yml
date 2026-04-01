@@ -1,0 +1,20 @@
+site_name: The Conscience of the Pedagogue
+site_description: A manifesto for educational reform
+docs_dir: docs
+site_dir: site
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Home: index.md
+  - Preamble: preamble.md
+  - Manifesto: manifesto.md
+  - Scraps: scraps.md
+  - Resources: resources.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.magiclink
+  - pymdownx.smartsymbols

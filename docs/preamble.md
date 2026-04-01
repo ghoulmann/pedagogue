@@ -1,0 +1,33 @@
+# Preamble
+
+Shortly after his arrest in 1986, a high-school junior published ["The Conscience of a Hacker"](http://www.phrack.org/issues.html?issue=7&id=3&mode=txt) under the pseudonym _The Mentor_. Known popularly as "The Hacker Manifesto," it says very little about the (ab)use of technology; instead, The Mentor offers chilling insights into secondary-school pedagogy from a student's perspective: "The Conscience of a Hacker" ultimately offers both a searing indictment of public education _and_ a forgotten stub of a manifesto for substantive school reform.
+
+When we listen, we recognize in him the caring [Mentor](http://en.wikipedia.org/wiki/Mentor), as he shares wisdom from sage experience as a public school student and as a successful independent learner.<sup>[1](#notes)</sup>
+
+We understand that wisdom<sup>[2](#notes)</sup> as an unambiguous call to
+
+- [differentiate instruction](http://en.wikipedia.org/wiki/Differentiated_instruction);
+- provide rigorous content;
+- maintain rigorous expectations;
+- value authentic learning and assessment that serves beyond the walls of the classroom;
+- encourage and provide for [connected learning](http://dmlhub.net/sites/default/files/ConnectedLearning_report.pdf).
+
+We recognize that since 1986, pedagogy research has followed The Mentor in calling for these best-practice mandates. We bear witness to the chilling effects of the following power centers on the implementation and innovation of best practices for our students: The State; School Boards; Superintendents; The Principal and administration; The Federal Government; Lobbyists.
+
+We recognize too that the Mentor is not alone, and that schools have been failing students across the curriculum since the success of Sputnik.<sup>[3](#notes)</sup>
+
+We are authorities in our fields, [professional](http://books.google.com/books/about/Professionalism_and_Ethics_in_Teaching.html?id=Ny2eD-ZebUoC) scholars and academics. We contribute to knowledge and bring discipline to the content areas. We end now the 26-years of silence the education community offered in response to The Mentor's substantive and expert testimony.
+
+We will not be complicit in the violent neglect of school children.<sup>[4](#notes)</sup>
+
+Now is the Just-in-Time deposition of administrators and lawmakers who have perpetrated violence and perpetuated social and economic injustice by impeding our urgent transgression.<sup>[5](#notes)</sup>
+
+---
+
+## Notes
+
+1. To engage the mentor, we must come to terms. The titular _Hacker_ invokes not the digital intruder...Ellipses to Coleman, code, political heritage, meritocracy
+2. "It's the truth, even if it didn't happen." (Kesey)
+3. Approximately 25 of every 100 students drop out before graduating; A 2010 report finds that only 24 percent of high schoolers who took the ACT were college-ready in all subject areas; in 2000, 28 percent of entering college freshmen enrolled in one or more remedial reading, writing, or mathematics courses; as of 2008, only 55.9 percent of first-time, full-time bachelor's degree-seeking students earned a degree within six years (Wolk). Wolk makes clear that this is not an improvement over time (contrasted with 1981 data).
+4. Coretta Scott King
+5. bell hooks
